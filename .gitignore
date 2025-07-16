@@ -1,0 +1,10 @@
+# ignore data folder
+Data/
+
+# ignore cell_type_aggregation/output
+cell_type_aggregation/output/
+cell_type_aggregation/output_sub_types/
+
+# ignore SVG_processing/extras
+SVG_processing/extras/
+SVG_processing/first try/
